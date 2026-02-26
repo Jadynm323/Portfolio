@@ -1,1 +1,1 @@
-[View the PDF]({{ "/assets/pdfs/portfolio.pdf" | relative_url }})
+This is the quick jekyl site I made to display my portfolio. I will make a nicer site in the future!
