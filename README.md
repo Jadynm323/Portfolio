@@ -1,1 +1,1 @@
-# Jadyn-Mithani.github.io
+[View the PDF]({{ "/assets/pdfs/resume.pdf" | relative_url }})
